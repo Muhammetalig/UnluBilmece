@@ -43,5 +43,7 @@ flutter run
 📱 Ekran Görüntüleri
 Ekran görüntüleri buraya eklenecek.
 
+Herhangi bir öneri için yazabilirsiniz.
+
 
 
